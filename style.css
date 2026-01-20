@@ -1,0 +1,127 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; 
+}
+ 
+body {
+     font-family: "Poppins", sans-serif;
+     background-color: rgb(233, 233, 233);
+}
+.navegacao nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    border-bottom: 1px solid #3333;
+    background-color:rgb(233, 233, 233) ;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right:0;
+}
+.navegacao a {
+    margin: 12px 0 12px 0px;
+}
+nav a {
+    text-decoration: none;
+    color: rgba(53, 53, 53, 0.89);
+    cursor: pointer;
+}
+nav a:hover {
+    color: rgba(0, 0, 0, 0.89);
+}
+#log {
+    border: none;
+    outline: none;
+    background: rgb(147, 23, 219) ;
+    padding: 7px 12px 7px 12px ;
+    font-size: 15px;
+    color: #fff;
+    border-radius: 10px;
+    font-weight: 500;
+    cursor: pointer;
+}
+#log:hover {
+    background: rgb(87, 0, 138) ;
+}
+.home {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: 80px 30px 0px 30px;
+    gap: 20px;
+    height: 400px;
+}
+.img-pet {
+    height: 380px;
+}
+.inform {
+    display: block;
+}
+.inform h1 {
+    display: block;
+    font-size: 80px;
+    color: rgb(97, 96, 96);
+    font-weight: bold;
+}
+.inform h2 {
+    display: block;
+    font-size: 40px;
+    font-weight: 400;
+    color: #333;
+}
+.inform p {
+    font-size: 25px;
+    color: #5f5f5fb0;
+}
+#buton-des {
+    margin-top: 30px;
+    margin-bottom: 0px;
+    font-size: 18px;
+}
+
+#explore {
+    border: none;
+    outline: none;
+    background: #15ff00; 
+    border-radius: 20.5px;
+    padding: 10px 30px ;
+    margin-top: 10px;
+    font-size:28px;
+    font-weight: 700;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    cursor: pointer;
+}
+#explore:hover {
+    background: #10c400; 
+}
+
+@media screen and (max-width: 900px) {
+    header {
+        display: none;
+    }
+    .home {
+        display: block;
+    }
+    .img-pet {
+        height: 310px;
+        display: block;
+        margin: auto;
+    }
+    .inform h1  {
+        font-size: 50px;
+        text-align: center;
+    }
+    .inform h2 {
+        text-align: center;
+        font-size: 35px;
+    }
+    .inform p {
+        display: none;
+    }
+    #explore  {
+        display: block;
+        margin: 0 auto;
+    }
+}
