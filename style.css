@@ -94,7 +94,7 @@ nav a:hover {
     cursor: pointer;
 }
 #explore:hover {
-    background: #10c400; 
+    opacity: calc(0.8); 
 }
 
 @media screen and (max-width: 900px) {
