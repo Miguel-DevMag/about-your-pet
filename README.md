@@ -5,7 +5,7 @@
 
 ## 💻 Sobre o Projeto
 
-Esse foi o meu primeiro projeto feito no DevClub. Ele tem como objetivo mostrar a importância de cuidar dos animais de estimação, para que não sejam maltratados.
+Esse foi o meu primeiro projeto feito no DevClub. Ele tem como objetivo mostrar a importância de cuidar dos animais de estimação, para que não sejam maltratados. O site e responsivo para Mobile. 
 
 ---
 ## 📸 Preview
