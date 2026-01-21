@@ -19,10 +19,42 @@ Esse foi o meu primeiro projeto feito no DevClub. Ele tem como objetivo mostrar 
 
 Este projeto foi construído com as seguintes ferramentas:
 
-*   **[HTML5](https://developer.mozilla.org):** Estruturação do conteúdo da página.
-*   **[CSS3](https://developer.mozilla.org):** Estilização visual e layout responsivo.
-*   **[Git](https://git-scm.com):** Sistema de controle de versão utilizado para gerenciar o histórico de modificações.
-*   **[GitHub](https://github.com):** Plataforma de hospedagem do código-fonte.
+* <img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> HTML5: Estruturação do conteúdo da página.
+
+
+* <img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> CSS3: Estilização visual e layout responsivo.
+
+
+  
+* <img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> Git:  Sistema de controle de versão utilizado para gerenciar o histórico de modificações.
+
+  
+* <img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> GitHub: Plataforma de hospedagem do código-fonte.
 
 ---
-
+## Site Hospedado
+Clique aqui [ https://miguel-devmag.github.io/about-your-pet/ ]
