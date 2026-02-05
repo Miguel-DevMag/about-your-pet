@@ -57,4 +57,4 @@ Este projeto foi construído com as seguintes ferramentas:
 
 ---
 ## Site Hospedado
-Clique aqui [ https://miguel-devmag.github.io/about-your-pet/ ]
+Clique aqui [ https://miguel-devmag.github.io/easy-shopping/]
